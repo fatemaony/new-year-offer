@@ -1,0 +1,142 @@
+ *{
+  margin: 0;
+  padding: 0;
+ }
+ .work-sans{
+  font-family: "Work Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+ }
+ #hero{
+  background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url(../images/Banner\ Image.png);
+  background-repeat: no-repeat;
+  height: 600px;
+  width: 1320px;
+  margin: 80px;
+  background-size: cover;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.sub-title{
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal; 
+ 
+}
+.title{
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+font-family: Merriweather;
+font-size: 75px;
+font-style: normal;
+font-weight: 900;
+line-height: 80px;
+padding-left: 344px;
+padding-right: 344px;
+padding-bottom: 174px;
+}
+.offer{
+  font-family: Inter;
+  background-color: rgb(243, 175, 187);
+  justify-content: center;
+  display: block;
+  margin: 50px;
+}
+.offer-head{
+  color: #F00;
+text-align: center;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.offer-description{
+  color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.offer-sub-head{
+  color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.offer-img{
+  width: 802.9px;
+height: 500px;
+flex-shrink: 0;
+align-items: end;
+}
+#mid-night{
+  background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url(../images/Vectorrr.png);
+  background-repeat: no-repeat;
+  height: 600px;
+  width: 1320px;
+  margin: 80px;
+  display: block;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+}
+.mid-title{
+  text-align: center;
+  color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+padding-top: 126px;
+padding-left: 126px;
+padding-right: 552px;
+}
+.mid-sub-title{
+  text-align: center;
+  color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 18px;
+padding-left: 126px;
+padding-right: 497px;
+justify-content: center;
+}
+.btn{
+  text-align: center;
+  padding-left: 158px;
+  padding-right: 1059px; 
+  padding-top: 48px;
+}
+button{
+  background-color: rgb(133, 194, 194);
+  border: none;
+  color: #8b5e5e;
+text-align: center;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: uppercase;
+padding: 10px;
+}
+.new-year{
+  display:flex;
+
+}
+.year-2024{
+
+}
